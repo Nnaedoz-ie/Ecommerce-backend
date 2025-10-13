@@ -1,0 +1,9 @@
+customer - firstname, lastname, email, phoneNumber, address, password, age
+
+admin - firstname, lastname, email, phoneNumber, address, password
+
+product - title, price, stockcount, image, description, rating, product_status I
+
+cart - productid, quantity, total_price
+
+order - productid, quantity, order_status
